@@ -1,5 +1,3 @@
-It is a Python tool that captures and analyzes network packets using Scapy. This script focuses on IP packets, logging key details such as the protocol type, sender IP address, and target IP address.
-
 ## Usage
 
 1. **Packet Capture**: The script captures all IP packets traversing your network interface.
