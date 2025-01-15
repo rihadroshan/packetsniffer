@@ -19,7 +19,7 @@
 
 2. Navigate into the project directory:
    ```
-   cd PRODIGY_CS_05
+   cd PacketSniffer
    ```
 
 3. Install the required Python package (Scapy):
