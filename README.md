@@ -15,7 +15,7 @@
 1. Clone the repository:
    ```
    git clone https://github.com/rihadroshan/packetsniffer.git
-   cd PacketSniffer
+   cd packetsniffer
    ```
 
 3. Install the required Python package (Scapy):
