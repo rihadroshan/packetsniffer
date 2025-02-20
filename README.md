@@ -15,10 +15,6 @@
 1. Clone the repository:
    ```
    git clone https://github.com/rihadroshan/PacketSniffer.git
-   ```
-
-2. Navigate into the project directory:
-   ```
    cd PacketSniffer
    ```
 
