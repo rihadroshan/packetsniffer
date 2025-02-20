@@ -1,8 +1,3 @@
-## Usage
-
-1. **Packet Capture**: The script captures all IP packets traversing your network interface.
-2. **Logging**: Details about each captured packet, including the protocol and IP addresses, are logged to both the console and a file.
-
 ## Features
 
 - **Protocol Identification**: Logs the type of protocol used (e.g., ICMP, TCP, UDP).
