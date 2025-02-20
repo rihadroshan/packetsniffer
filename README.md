@@ -5,7 +5,7 @@
 - **File Output**: Appends packet details to `file.txt` for persistent storage.
 - **Real-time Monitoring**: Displays packet details in real-time on the console.
 
-## How to Use
+## Usage
 
 1. Clone the repository:
    ```
@@ -30,7 +30,7 @@
      python3 packetsniffer.py
      ```
 
-5. The script will start capturing and logging packet details. Check the console output and `file.txt` for logged data.
+5. It will start capturing and logging packet details. Check the console output and `file.txt` for logged data.
 
 ## Example
 
