@@ -14,7 +14,7 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/rihadroshan/PacketSniffer.git
+   git clone https://github.com/rihadroshan/packetsniffer.git
    cd PacketSniffer
    ```
 
