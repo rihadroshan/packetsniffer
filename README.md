@@ -32,7 +32,7 @@
 
    - **On Windows**:
      ```
-     python3 PacketSniffer.py
+     python3 packetsniffer.py
      ```
 
 5. The script will start capturing and logging packet details. Check the console output and `file.txt` for logged data.
