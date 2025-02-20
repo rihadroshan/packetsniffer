@@ -27,7 +27,7 @@
 
    - **On Linux**:
      ```
-     sudo python3 PacketSniffer.py
+     sudo python3 packetsniffer.py
      ```
 
    - **On Windows**:
